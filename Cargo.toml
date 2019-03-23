@@ -1,0 +1,10 @@
+[package]
+name = "hyper_halting"
+version = "0.1.0"
+authors = ["KardashovS <kardashovs@tomskasu.ru>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.12.25"
+futures = "0.1.25"
+stopwatch = "0.0.7"
